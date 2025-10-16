@@ -1,6 +1,17 @@
-# bored_bot
-Simple HTML/CSS/JS app using bored bot API
+# 🤖 BoredBot
 
-intro to APIs and fetch functions
+Simple HTML/CSS/JS app that uses the [Bored API](https://www.boredapi.com/api/activity) to suggest fun things to do when you’re bored.
 
-just click on the button and get activity to get rid of the boredom!
+## 🚀 Demo
+[Live site on Netlify](https://aninboredbot.netlify.app/)
+
+## 🧠 Features
+- Fetches random activities using the Bored API  
+- Simple and responsive design  
+- Installable as a PWA (Add to Home Screen)
+
+## ⚙️ Tech
+Built with:
+- HTML  
+- CSS  
+- JavaScript (fetch + async/await)

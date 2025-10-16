@@ -9,6 +9,6 @@ generateBtnEl.addEventListener("click", () => {
       activityEl.textContent = data.activity;
       titleEl.textContent = "🦾 HappyBot🦿";
       generateBtnEl.classList.add("fun-btn");
-      document.querySelector("main").classList.add("fun", "exited");
+      document.querySelector("main").classList.add("fun");
     });
 });
