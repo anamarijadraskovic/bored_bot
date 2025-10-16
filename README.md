@@ -1,6 +1,6 @@
 # 🤖 BoredBot
 
-Simple HTML/CSS/JS app that uses the [Bored API](https://www.boredapi.com/api/activity) to suggest fun things to do when you’re bored.
+Simple HTML/CSS/JS app that uses the [Bored API](https://apis.scrimba.com/bored/documentation) to suggest fun things to do when you’re bored.
 
 ## 🚀 Demo
 [Live site on Netlify](https://aninboredbot.netlify.app/)
