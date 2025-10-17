@@ -4,7 +4,7 @@ Simple HTML/CSS/JS app that uses the [Bored API](https://apis.scrimba.com/bored/
 
 ## Demo
 
-[Live site on Netlify](https://aninboredbot.netlify.app/)
+🌐 [Live site on Netlify](https://aninboredbot.netlify.app/)
 
 ## Features
 
@@ -20,6 +20,6 @@ Built with:
 - CSS
 - JavaScript (fetch + async/await)
 
----
+## 🚀 Performance
 
-Finally, this project was optimized for maximum efficiency, scoring a perfect 100 in all Lighthouse categories (Performance, Accessibility, Best Practices, and SEO).
+Optimized for maximum efficiency, scoring a perfect **100** in all Lighthouse categories (Performance, Accessibility, Best Practices, and SEO).
