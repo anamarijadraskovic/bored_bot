@@ -18,7 +18,7 @@ Built with:
 
 - HTML
 - CSS
-- JavaScript (fetch + async/await)
+- JavaScript (fetch)
 
 ## 🚀 Performance
 
